@@ -15,6 +15,8 @@ p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
 .bg-primary { background-color: #F05F40; }
 
+.bg-secondary { background-color: #f7d5cd; }
+
 .bg-dark { background-color: #222; color: white; }
 
 .text-faded { color: rgba(255, 255, 255, 0.7); }
@@ -95,7 +97,7 @@ header .header-content .header-content-inner p { font-weight: 300; color: rgba(2
 
 #contact .fa { color: #222; font-size: 4em; }
 
-#footer { padding: 10px 0 20px 0; }
+#footer { padding-top: 10px; padding-bottom: 0px; }
 
 ::-moz-selection { color: white; text-shadow: none; background: #222; }
 
