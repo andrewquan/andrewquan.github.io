@@ -6,8 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 timezone: Asia/Tokyo
 
-linkedin_url: linkedin.com/andrewhquan
-github_url: github.com/andrewquan
+linkedin_username: andrewhquan
+github_username: andrewquan
 
 # Build settings
 markdown: kramdown
